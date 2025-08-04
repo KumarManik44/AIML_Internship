@@ -60,7 +60,7 @@ All features are numerical, with numerical columns standardized and no missing v
 
 ## Repository Structure
 - `Titanic_Dataset.csv`: Input dataset
-- `preprocessing.ipynb`: Jupyter Notebook with all preprocessing steps
+- `Task 1.ipynb`: Jupyter Notebook with all preprocessing steps
 - `README.md`: Project documentation
 
 ## Notes
@@ -69,4 +69,4 @@ All features are numerical, with numerical columns standardized and no missing v
 - The code assumes the Titanic dataset is in CSV format with the same column structure as the standard Kaggle dataset.
 
 ## Author
-Created as part of an AI/ML internship project.
+Created by Kumar Manik as part of an AI/ML internship project.
