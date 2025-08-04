@@ -60,7 +60,7 @@ All features are numerical, with numerical columns standardized and no missing v
 
 ## Repository Structure
 - `Titanic_Dataset.csv`: Input dataset
-- `Task 1.ipynb`: Jupyter Notebook with all preprocessing steps
+- `Task_1.ipynb`: Jupyter Notebook with all preprocessing steps
 - `README.md`: Project documentation
 
 ## Notes
