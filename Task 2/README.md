@@ -64,8 +64,8 @@ This project performs a detailed statistical and visual analysis of passenger da
 ```
 titanic-eda/
 │
-├── Task_2.ipynb          # Main Jupyter notebook with complete analysis
-├── Titanic_Dataset.csv                # Dataset file
+├── Task_2.ipynb               # Main Jupyter notebook with complete analysis
+├── Titanic_Dataset.csv        # Dataset file
 ├── README.md                  # Project documentation
 └── requirements.txt           # Python dependencies
 ```
