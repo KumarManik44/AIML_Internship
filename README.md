@@ -1,1 +1,1 @@
-# AIML_Internship
+# AI / ML Projects
